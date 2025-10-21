@@ -70,6 +70,6 @@ Autor: PedroProgramador90
 
 GitHub: https://github.com/PedroProgramador90
 
-Imagem do Projeto 
+Imagem do Projeto 🍵
 
 ![Captura da landing page do Café Porto](./assets/img/Captura%20de%20tela%202025-10-21%20151830.png)
