@@ -70,3 +70,6 @@ Autor: PedroProgramador90
 
 GitHub: https://github.com/PedroProgramador90
 
+Imagem do Projeto 
+
+(./assets/img/)
