@@ -1,0 +1,69 @@
+/* Media Queries */
+@media screen and (max-width:760px) {
+    nav.nav-desktop {
+        display:none;
+    }
+
+    .open-btn {
+        display:block;
+    }
+    
+    .menu-mobile {
+        display:block;
+    }
+
+    .content-desk  h1 {
+        text-align:center;
+        font-size: 3.9rem;
+    }
+
+    .content-desk  p {
+     text-align:center;
+    }
+
+
+}
+
+@media screen and (max-width:580px) {
+    .contato-info {
+      width:400px;
+    }
+
+    .info1-flex {
+        flex-direction: column;
+   }
+    .info2-flex {
+       flex-direction: column;
+    }
+    .info3-flex {
+      flex-direction: column;
+    }
+}
+
+@media screen and (max-width:430px) {
+     .contato-info {
+      width:330px;
+    }
+
+    .content-desk  h1 {
+        text-align:center;
+        font-size: 3.9rem;
+    }
+
+    .content-desk  p {
+     text-align:center;
+    }
+}
+
+@media screen and (max-width:375px) {
+     .contato-info {
+      width:308px;
+    }
+
+    .contato-info p {
+     font-size:0.8rem;
+    }
+}
+
+
+/******/
