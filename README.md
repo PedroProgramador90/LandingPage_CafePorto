@@ -32,17 +32,6 @@ Possível framework ou biblioteca (se for o caso) — ajuste conforme o que voc�
 
 Hospedagem via plataforma (ex: Vercel) — link presente no repositório
 
-
-
-📦 Estrutura de Pastas (exemplo)
-/LandingPage_CafePorto
-├── assets/           ← imagens, ícones, logos
-├── css/              ← estilos
-├── js/               ← scripts (incluindo chatbox IA)
-├── index.html        ← página principal
-├── README.md         ← este arquivo
-└── … outros arquivos conforme seu setup
-
 💡 Possíveis Extensões / Melhorias Futuras
 
 Integração com sistema de reservas completo (backend + banco de dados)
