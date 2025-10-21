@@ -72,4 +72,4 @@ GitHub: https://github.com/PedroProgramador90
 
 Imagem do Projeto 
 
-(./assets/img/)
+(./assets/img/Captura de tela 2025-10-21 151830.png)
