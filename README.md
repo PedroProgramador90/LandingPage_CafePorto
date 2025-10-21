@@ -72,4 +72,4 @@ GitHub: https://github.com/PedroProgramador90
 
 Imagem do Projeto 
 
-(./assets/img/Captura de tela 2025-10-21 151830.png)
+![Captura da landing page do Café Porto](./assets/img/Captura%20de%20tela%202025-10-21%20151830.png)
